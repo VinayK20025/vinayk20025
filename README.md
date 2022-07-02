@@ -9,7 +9,7 @@
 
 <p> In my university career, I have learned a lot of information and applied it successfully to a variety of projects. I am open to learning new things and getting involved with various projects that can assist with that process. I am passionate about solving technical problems, researching and developing cutting-edge technologies, and designing software for different platforms. I enjoy working with people and being a part of a team. Additionally, I enjoy interacting with customers and clients. I have strong customer service skills. I am a quick learner with an outgoing personality. Further, I excel at working under pressure and dealing with stressful situations well. The skills that I have will benefit any company in the information technology sector. As of right now, I am seeking an internship in Cyber Security. Delighted to make new acquaintances and connections, so feel free to get in touch anytime.</p>
 
-<h3 align="left"> Licenses & certifications </h3>
+<h3 align="left"> Licenses & Certifications </h3>
 <p> <ul style="list-style-type:circle;">
   <li> <b> Diploma in Legal Studies </b>| Alison - Empower Yourself </li>
   <li> <b> Diploma in Risk Management </b>| Alison - Empower Yourself </li>
